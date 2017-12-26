@@ -1,0 +1,58 @@
+[
+ {
+  "Error": {
+   "Message": "ERRORED! Response received (if any): ",
+   "Turn": 1
+  },
+  "Frames": [
+   {
+    "Time": 90,
+    "Turn": 0
+   },
+   null
+  ],
+  "PlayerID": 0,
+  "PlayerName": "python: can't open file 'MyBot"
+ },
+ {
+  "Error": {},
+  "Frames": [
+   {
+    "Time": 171,
+    "Turn": 0
+   },
+   {
+    "Commands": [
+     {
+      "angle": 175,
+      "magnitude": 7,
+      "owner": 1,
+      "queue_number": 0,
+      "shipId": 4,
+      "type": "thrust"
+     }
+    ],
+    "Planets": null,
+    "Ships": [
+     {
+      "cooldown": 0,
+      "docking": {
+       "status": "undocked"
+      },
+      "health": 255,
+      "id": 4,
+      "owner": 1,
+      "vel_x": 0.0,
+      "vel_y": 0.0,
+      "x": 173.02663711335779,
+      "y": 77.610090199233611
+     }
+    ],
+    "Time": 3,
+    "Turn": 1
+   }
+  ],
+  "PlayerID": 1,
+  "PlayerName": "SettlerV1"
+ }
+]
